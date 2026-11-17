@@ -1,4 +1,4 @@
-Babur Medical website 
+Bobur Medical website 
 
 Open index.html in a modern browser (Chrome, Edge, Firefox, Safari).
 The language selector in the top-right corner switches between Russian (RU), Uzbek (UZ), and English (EN).
